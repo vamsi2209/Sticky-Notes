@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Sticky Note Exercise</h1>
+<p></p>
+<form class="example" action="/action_page.php">
+  <input type="text" placeholder="Search.." name="search">
+  <button type="submit"><i class="fa fa-search"></i></button>
+  <button type="submit" value="Submit">Submit</button>
+  <button type="reset" value="Reset">Reset</button>
+
+</form>
+
+<table style="width:100%">
+    <tr>
+      <th>Entity Section</th>
+      <th>Attribute Section</th>
+    
+    </tr>
+  
+  
+    
+<p></p>
+  </body>
+  
+  
+</html>
